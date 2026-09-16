@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhrjqLMF/vM=",
+  "success": false,
+  "projectFilePath": "D:\\ColorApp\\ColorApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1103",
+      "level": "Error",
+      "message": "Не удалось найти стабильный пакет System.Drawing.Common с версией\u00A0(>= 10.0.401)\r\n  - В nuget.org обнаружено несколько версий (166) [ Ближайшая версия: 11.0.0-preview.1.26104.118 ]",
+      "projectPath": "D:\\ColorApp\\ColorApp.csproj",
+      "filePath": "D:\\ColorApp\\ColorApp.csproj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
